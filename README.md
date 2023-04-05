@@ -1,13 +1,17 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Gruppe Heliotrope
+Sathana Suganthasri, Joel Simon Juan. Haldimann und Kilian Adil. Staeuble
+
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In diesem Spiel geht es um unsere Base zu schützen. 
 
 ## Was habe ich gelernt?
-
+Wie man so Programmiert, das den erstellten Gerät automatisch den Pfaden folgt. 
 ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+
+
 
 ## Beschreibung
 
@@ -16,6 +20,8 @@
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
+
+
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
