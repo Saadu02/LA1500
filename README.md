@@ -8,7 +8,7 @@ Sathana Suganthasri, Joel Simon Juan. Haldimann und Kilian Adil. Staeuble
 In diesem Spiel geht es um unsere Base zu schützen. 
 
 ## Was habe ich gelernt?
-Wie man so Programmiert, das den erstellten Gerät automatisch den Pfaden folgt. 
+Wie man so programmiert, das den erstellten Gerät automatisch den Pfaden folgt. 
 ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 
@@ -47,11 +47,11 @@ Wie man so Programmiert, das den erstellten Gerät automatisch den Pfaden folgt.
 
 # Reflektion zum Arbeitsprozess
 
-Die Aufgabenteilung war gut und jeder wusste was sie machen mussten. 
+Die Aufgabenteilung war gut und jeder wusste, was sie machen mussten. 
 👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
 
 
-Als wir Online-Unterricht hatten, konnten wir unsere Projekt nicht zusammen fügen und hatten mühe den Problem herauszufinden. 👎 und etwas, was nicht gut lief.
+Als wir Online-Unterricht hatten, konnten wir unsere Projekt nicht zusammen fügen und hatten Mühe den Problem herauszufinden. 👎 und etwas, was nicht gut lief.
 
-**VBV**: Nächste mal, wenn es im Gruppenarbeit eine Zusammenfügen eines Projekt geht, werden wir alle in einem Ort treffen und den projekt zusammenfügen. 
+**VBV**: Nächste Mal, wenn es im Gruppenarbeit eine Zusammenfügen eines Projekt geht, werden wir alle in einem Ort treffen und den Projekt zusammenfügen. 
 ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
