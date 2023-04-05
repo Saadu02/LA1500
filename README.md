@@ -6,6 +6,7 @@ Sathana Suganthasri, Joel Simon Juan. Haldimann und Kilian Adil. Staeuble
 ## Einleitung
 
 In diesem Spiel geht es um unsere Base zu schützen. 
+✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
 
 ## Was habe ich gelernt?
 Wie man so programmiert, das den erstellten Gerät automatisch den Pfaden folgt. 
