@@ -47,8 +47,11 @@ Wie man so Programmiert, das den erstellten Gerät automatisch den Pfaden folgt.
 
 # Reflektion zum Arbeitsprozess
 
+Die Aufgabenteilung war gut und jeder wusste was sie machen mussten. 
 👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
 
 👎 und etwas, was nicht gut lief.
+Als wir Online-Unterricht hatten, konnten wir unsere Projekt nicht zusammen fügen und hatten mühe den Problem herauszufinden. 
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Nächste mal, wenn es im Gruppenarbeit eine Zusammenfügen eines Projekt geht, werden wir alle in einem Ort treffen und den projekt zusammenfügen. 
+✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
