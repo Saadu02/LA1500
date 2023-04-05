@@ -21,6 +21,23 @@ Wie man so Programmiert, das den erstellten Gerät automatisch den Pfaden folgt.
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 
+```csharp
+        public class Waypoints : MonoBehaviour
+        {           
+            public static Transform[] points;
+            
+            void Awake()
+            {
+                points = new Transfrom[transform.childCount];
+                for (int i = 0; i < points.Length; i++)
+                {
+                    points[i] = transform.GetChild(i);
+                }
+            }
+        }
+
+```
+
 
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
