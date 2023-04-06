@@ -54,5 +54,5 @@ Die Aufgabenteilung war gut und jeder wusste, was sie machen mussten.
 
 Als wir Online-Unterricht hatten, konnten wir unsere Projekt nicht zusammen fügen und hatten Mühe den Problem herauszufinden. 👎 und etwas, was nicht gut lief.
 
-**VBV**: Nächste Mal, wenn es im Gruppenarbeit eine Zusammenfügen eines Projekt geht, werden wir alle in einem Ort treffen und den Projekt zusammenfügen. 
+**VBV**: Nächste Mal, wenn es im Gruppenarbeit eine Zusammenfügen eines Projekt geht, werden wir alle an einem Ort treffen und den Projekt zusammenfügen. 
 ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
